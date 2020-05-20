@@ -7,8 +7,8 @@
 4. Always keep an Eye on the Intendation
 5. Add your data like this
 ``` yml
-- name: Athul
-  github: athul
+- name: Ashmy
+  github: ashmy
 ```
 6. Make a Pull Request :tada: :tada: 
 
